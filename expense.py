@@ -50,7 +50,7 @@ class Expensedatabase:
         for expense in self.expenses:
             if expense_id == id:
                 return expense
-            return None
+        return None
         
     def get_expense_by_title(self, title):
         #getting an expense by title
