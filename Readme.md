@@ -30,13 +30,13 @@
  5. Click Enter. This would download a copy of the projejct file to your local computer, creating a folder named
   OneDrive-Documents-oop_expense.py
 
-# Running te code
+# Running the code
 
-  Ensure you have python installed.
+  1.Ensure you have python installed.
   
-  Navigate to the project directory in your terminal.
+  2.Navigate to the project directory in your terminal.
   
-  Run the python script: Use the python command followed by the name of your Python script to run it. If you're using Python 3, you might need to use python3 instead of python:
+  3.Run the python script: Use the python command followed by the name of your Python script to run it. If you're using Python 3, you might need to use python3 instead of python:
   
    python Expense.py.
 
