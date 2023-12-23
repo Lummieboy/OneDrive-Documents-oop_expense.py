@@ -1,4 +1,4 @@
-# EXPENSES AND EXPENSEDATABASE
+#  CLASS EXPENSES AND EXPENSEDATABASE
 
  This project deals with implementation of Expenses and Expensedatabase using the Object-Oriented Programming (OOP) conceppts in python. 
  
@@ -8,15 +8,15 @@
 
 # Usage
 
- Expense class:
+ class Expenses:
   Represents an individual financial expense.
 
-  ExpenseDatabase class:
+  Class ExpenseDatabase:
    Manages a collection of Expense object.
 
 # Project structure
 
- Expense.py : contains the Expense and ExpenseDatabase claases.
+ Expense.py : contains the Expense and ExpenseDatabase classes.
 
 
 # Clonning the project
@@ -37,6 +37,7 @@
   Navigate to the project directory in your terminal.
   
   Run the python script: Use the python command followed by the name of your Python script to run it. If you're using Python 3, you might need to use python3 instead of python:
+  
    python Expense.py.
 
 
